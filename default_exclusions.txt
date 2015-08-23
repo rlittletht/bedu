@@ -1,19 +1,45 @@
-﻿\\*\*\**\Temporary Internet Files\*.*
+﻿\\*\*\hiberfile.sys
+\\*\*\pagefile.sys
+\\*\*\swapfile.sys
+\\*\*\**\Temporary Internet Files\*.*
 \\*\*\**\__nobackup\*.*
+\\*\*\**\*.__nobackup\*.*
 \\*\*\**\Installer Cache\*.*
 \\*\*\**\Microsoft\Search\Data\Applications\*.*
 \\*\*\**\Media Cache Files\*.*
 \\*\*\**\AppData\Local\Temp\*.*
 \\*\*\**\ProgramData\Microsoft\Search\*.*
+\\*\*\**\ProgramData\Package Cache\*.*
+\\*\*\Users\**\Package Cache\*.*
+\\*\*\**\Newsleecher\*.*
 \\*\*\**\System Volume Information\*.*
+\\*\*\System Volume Information\*.*
 \\*\*\**\World of Warcraft*\*.*
 \\*\*\**\Application Data\Zune\*.*
 \\*\*\**\Program Files*\Ubisoft\*.*
+\\*\*\Program Files*\Ubisoft\*.*
+\\*\*\**\Program Files*\Autodesk\*.*
+\\*\*\Program Files*\Autodesk\*.*
+\\*\*\**\Program Files*\Microsoft*\*.*
+\\*\*\Program Files*\Microsoft*\*.*
+\\*\*\**\Program Files*\Common Files\*.*
+\\*\*\Program Files*\Common Files\*.*
+\\*\*\**\Program Files*\Google\*.*
+\\*\*\Program Files*\Google\*.*
+\\*\*\**\Program Files*\Nero\*.*
+\\*\*\Program Files*\Nero\*.*
+\\*\*\**\Program Files*\Origin*\*.*
+\\*\*\Program Files*\Origin*\*.*
+\\*\*\**\Program Files*\Reference*\*.*
+\\*\*\Program Files*\Reference*\*.*
 \\*\*\**\Program Files*\ValuSoft*\*.*
+\\*\*\Program Files*\ValuSoft*\*.*
 \\*\*\**\Viva Media\*.*
 \\*\*\**\Nancy Drew\*.*
 \\*\*\**\driverstore\temp\*.*
 \\*\*\__nobackup\*.*
+\\*\*\$Recycle.Bin\*.*
+\\*\*\*.__nobackup\*.*
 \\*\*\Program Files*\EA Games\*.*
 \\*\*\Program Files*\Maxis\*.*
 \\*\*\Program Files*\Microsoft Games\*.*

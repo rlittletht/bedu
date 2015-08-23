@@ -361,6 +361,11 @@ namespace bedu
 			return bedRoot;
 		}
 
+        static public void OutputLine(string s)
+        {
+            Console.WriteLine(s);
+        }
+
         static void Main(string[] args)
         {
             UnitTest();
@@ -368,21 +373,21 @@ namespace bedu
 
             CmdLineConfig clcfg = new CmdLineConfig(new CmdLineSwitch[]
                 {
-                    new CmdLineSwitch("r", false, false, "record to a file", null, null),
+                    new CmdLineSwitch("r", false, false, "record to a file", "filename", null),
 					new CmdLineSwitch("f", true, false, "fast mode", null, null),
-                    new CmdLineSwitch("p", false, false, "playback from a file", null, null),
-                    new CmdLineSwitch("n", false, false, "name this server (for later playback)", null, null),
-                    new CmdLineSwitch("h", false, false, "name this server share (for later playback)", null, null),
+                    new CmdLineSwitch("p", false, false, "playback from a file", "filename", null),
+                    new CmdLineSwitch("n", false, false, "name this server (for later playback)", "servername", null),
+                    new CmdLineSwitch("h", false, false, "name this server share (for later playback)", "sharename", null),
                     new CmdLineSwitch("v", true, false, "verbose - show each file", null, null),
 					new CmdLineSwitch("z", true, false, "zeros - show directories that are 0 size", null, null),
-					new CmdLineSwitch("d", false, false, "depth - max depth to show", null, null),
+					new CmdLineSwitch("d", false, false, "depth - max depth to show", "depth", null),
 					new CmdLineSwitch("0", true, false, "depth 0 - alias for -d 0", null, null),
 					new CmdLineSwitch("1", true, false, "depth 0 - alias for -d 1", null, null),
 					new CmdLineSwitch("2", true, false, "depth 0 - alias for -d 2", null, null),
 					new CmdLineSwitch("3", true, false, "depth 0 - alias for -d 3", null, null),
 					new CmdLineSwitch("x", true, false, "exclusions - use the global exclusion list", null, null),
-                    new CmdLineSwitch("X", false, false, "eXclusions - load more exclusions from the named file", null, null),
-                    new CmdLineSwitch("i", false, false, "inclusions - this is the selection list to match against", null, null)
+                    new CmdLineSwitch("X", false, false, "eXclusions - load more exclusions from the named file", "filename", null),
+                    new CmdLineSwitch("i", false, false, "inclusions - this is the selection list to match against", "filename", null)
                 } );
             BEList belExclusions = new BEList();
             BEList belSelection = new BEList();
@@ -396,6 +401,7 @@ namespace bedu
 			if (!cl.FParse(args, bep, null, out sError))
 				{
 				Console.WriteLine(sError);
+				cl.Usage(OutputLine);
 				return;
 				}
 
