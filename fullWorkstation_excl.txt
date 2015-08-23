@@ -1,0 +1,10 @@
+\\cacofonix\e:\shares\Digital Folder\*.*
+\\cacofonix\e:\shares\mac\*.*
+\\cacofonix\e:\shares\netsetup\*.*
+\\cacofonix\e:\shares\NewPhotos\*.*
+\\bucolix\c:\windows.old\*.*
+\\bucolix\c:\AC Stuff\*.*
+\\*\*\**\My Documents\My Music\*.*
+\\*\*\users\*\Music\*.*
+\\*\*\**\AppData\Local\Microsoft\Zune\*.*
+

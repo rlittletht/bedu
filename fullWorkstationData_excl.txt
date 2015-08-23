@@ -1,0 +1,14 @@
+\\magix\c:\windows\*.*
+\\bucolix\c:\windows\*.*
+\\bucolix\c:\AC Stuff\*.*
+\\psychoanalytix\c:\windows\*.*
+\\bucolix\c:\windows.old\*.*
+\\atlantix\c:\windows\*.*
+\\cacofonix\e:\shares\Digital Folder\*.*
+\\cacofonix\e:\shares\mac\*.*
+\\cacofonix\e:\shares\netsetup\*.*
+\\cacofonix\e:\shares\NewPhotos\*.*
+\\*\*\**\My Documents\My Music\*.*
+\\*\*\users\*\Music\*.*
+\\*\*\**\AppData\Local\Microsoft\Zune\*.*
+

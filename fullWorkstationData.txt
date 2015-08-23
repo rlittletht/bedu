@@ -1,0 +1,10 @@
+\\magix\c:\*.*
+\\magix\d:\*.*
+\\cacofonix\c:\*.*
+\\cacofonix\e:\shares\*.*
+\\cacofonix\e:\csvn\*.*
+\\atlantix\c:\*.*
+\\atlantix\d:\*.*
+\\bucolix\c:\*.*
+\\psychoanalytix\c:\*.*
+

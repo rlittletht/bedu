@@ -1,0 +1,45 @@
+﻿\\*\*\**\Temporary Internet Files\*.*
+\\*\*\**\__nobackup\*.*
+\\*\*\**\Installer Cache\*.*
+\\*\*\**\Microsoft\Search\Data\Applications\*.*
+\\*\*\**\Media Cache Files\*.*
+\\*\*\**\AppData\Local\Temp\*.*
+\\*\*\**\ProgramData\Microsoft\Search\*.*
+\\*\*\**\System Volume Information\*.*
+\\*\*\**\World of Warcraft*\*.*
+\\*\*\**\Application Data\Zune\*.*
+\\*\*\**\Program Files*\Ubisoft\*.*
+\\*\*\**\Program Files*\ValuSoft*\*.*
+\\*\*\**\Viva Media\*.*
+\\*\*\**\Nancy Drew\*.*
+\\*\*\**\driverstore\temp\*.*
+\\*\*\__nobackup\*.*
+\\*\*\Program Files*\EA Games\*.*
+\\*\*\Program Files*\Maxis\*.*
+\\*\*\Program Files*\Microsoft Games\*.*
+\\*\*\Program Files*\Microsoft Office\*.*
+\\*\*\Program Files*\Microsoft SDKs\*.*
+\\*\*\Program Files*\Sierra\*.*
+\\*\*\Program Files*\Sierra Entertainment\*.*
+\\*\*\Program Files*\Adobe\*.*
+\\*\*\Program Files*\Steam\*.*
+\\*\*\Program Files\Matrox Mx.tools\*.*
+\\*\*\Program Files\Nero\*.*
+\\*\*\Program Files*\LEGO *\*.*
+\\*\*\Program Files*\Electronic Arts\*.*
+\\*\*\Program Files*\Turbine\*.*
+\\*\*\Program Files*\Atari\*.*
+\\*\*\Program Files*\Broderbund\*.*
+\\*\*\Program Files*\DreamCatcher\*.*
+\\*\*\Program Files*\Sierra\*.*
+\\*\*\Program Files*\Lionhead Studios\*.*
+\\*\*\Program Files*\Legacy Interactive\*.*
+\\*\*\windows\temp\*.*
+\\*\*\MsoCache\*.*
+\\*\*\*\*\bar2\*.mp6
+\\*\*\*\*\foo2\*.mp6
+\\*\*\**\match\**\match2\*.mp3
+\\*\*\**\*.boo
+\\*\*\Program Files*\StarCraft*\*.*
+\\*\*\Program Files*\Microsoft Visual Studio*\*.*
+\\*\*\WSUS\WSUSContent\*.*
