@@ -5,7 +5,7 @@ using System.Text;
 using System.Diagnostics;
 using System.IO;
 using System.Reflection;
-using CmdLineSupport;
+using TCore.CmdLine;
 using System.Xml;
 
 namespace bedu

@@ -56,8 +56,8 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\liblet\cs\cmdline\cmdline.csproj">
-      <Project>{B83640E8-72F6-4F92-93FD-7FF7CEC3535E}</Project>
+    <ProjectReference Include="..\liblet\cs\TCore.CmdLine\cmdline.csproj">
+      <Project>{b83640e8-72f6-4f92-93fd-7ff7cec3535e}</Project>
       <Name>cmdline</Name>
     </ProjectReference>
   </ItemGroup>
